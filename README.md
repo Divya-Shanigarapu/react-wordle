@@ -1,1 +1,1 @@
-# react-wordle
+React Wordle is a web-based implementation of the popular Wordle game, designed to provide an engaging and interactive experience. Built with React, the app challenges players to guess a hidden word within six attempts, offering color-coded feedback to indicate correct, misplaced, or incorrect letters. The project showcases the power of React’s state management and hooks.
